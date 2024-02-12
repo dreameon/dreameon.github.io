@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d200c6f.chunk.css",
+    "main.js": "/static/js/main.3b8c70c9.chunk.js",
+    "main.js.map": "/static/js/main.3b8c70c9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.638c8875.js",
+    "runtime~main.js.map": "/static/js/runtime~main.638c8875.js.map",
+    "static/js/2.f07dec75.chunk.js": "/static/js/2.f07dec75.chunk.js",
+    "static/js/2.f07dec75.chunk.js.map": "/static/js/2.f07dec75.chunk.js.map",
+    "static/js/3.bb0829b5.chunk.js": "/static/js/3.bb0829b5.chunk.js",
+    "static/js/3.bb0829b5.chunk.js.map": "/static/js/3.bb0829b5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d8a39dfce577436825e50f4a0d7497a6.js": "/precache-manifest.d8a39dfce577436825e50f4a0d7497a6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3d200c6f.chunk.css.map": "/static/css/main.3d200c6f.chunk.css.map",
+    "static/media/index.css": "/static/media/Nelphim.2f2d8e82.otf",
+    "static/media/brand name.svg": "/static/media/brand name.7cf6ea36.svg",
+    "static/media/business cards.png": "/static/media/business cards.e1ef7d6e.png",
+    "static/media/ccs tea set.svg": "/static/media/ccs tea set.1578da1a.svg",
+    "static/media/fonts.svg": "/static/media/fonts.0183660f.svg",
+    "static/media/genshin.png": "/static/media/genshin.1b30241d.png",
+    "static/media/image.png": "/static/media/image.e7b659e3.png",
+    "static/media/logo draft 2.png": "/static/media/logo draft 2.d0250f0f.png",
+    "static/media/logo draft.png": "/static/media/logo draft.70108579.png",
+    "static/media/logo final.png": "/static/media/logo final.5331e23f.png",
+    "static/media/logo font.png": "/static/media/logo font.386caddf.png",
+    "static/media/logo.svg": "/static/media/logo.379cea82.svg",
+    "static/media/mascot cats.png": "/static/media/mascot cats.9f0b6f7b.png",
+    "static/media/mascot draft.png": "/static/media/mascot draft.880c27f7.png",
+    "static/media/mascot final.png": "/static/media/mascot final.0a713459.png"
+  }
+}
