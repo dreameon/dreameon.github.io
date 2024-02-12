@@ -1,0 +1,30 @@
+
+.intro {
+  gap: 7.4%;
+  padding: 10%;
+  /* padding: 0 10% 0 10%; */
+  /* height: 100vh; */
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
+  width: 60%
+}
+
+.portrait {
+  width: 22%;
+}
+
+.projects {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.gallery {
+  padding: 0 0 10% 0;
+  /* height: 100vh; */
+}

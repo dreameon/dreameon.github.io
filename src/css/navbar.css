@@ -1,0 +1,19 @@
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  background-color: #ECCBCB;
+  height: 64px;
+  padding: 0 2% 0 2%;
+  align-items: center;
+  position: sticky;
+  top: 0px;
+  box-shadow: 0 0 2px 0 #9F9393;
+  z-index: 3;
+}
+
+.home-nav {
+  color: white;
+  font-size: 2.2em;
+
+}

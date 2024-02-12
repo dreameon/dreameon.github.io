@@ -1,13 +1,31 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import './css/index.css';
+import Home from './Home';
 import reportWebVitals from './reportWebVitals';
+import { Routes, Route, BrowserRouter } from "react-router-dom";
+
+import NavBar from './NavBar.jsx';
+import Puripalette from './puripalette/Puripalette.jsx';
+import ClearCardTeaSet from './ClearCardTeaSet.jsx';
+import GenshinLoungewear from './GenshinLoungewear.jsx';
+import HandmadeMini from './HandmadeMini.jsx';
+import Streaming from './Streaming.jsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter> 
+      <NavBar currentPage="main"/>
+      <Routes>
+          <Route path="/" element={ <Home />} />
+          <Route path="puripalette" element={ <Puripalette/> } />
+          <Route path="clear-card-tea-set" element={ <ClearCardTeaSet/> } />
+          <Route path="genshin-loungewear" element={ <GenshinLoungewear/> } />
+          <Route path="handmade-mini" element={ <HandmadeMini/> } />
+          <Route path="streaming" element={ <Streaming/> } />
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 
