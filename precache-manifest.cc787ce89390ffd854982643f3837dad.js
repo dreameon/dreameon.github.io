@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e8e837dba7cb9de9475b94d1a2c33d2",
+    "revision": "fb12317a8a0bba3b29e3a934936374ac",
     "url": "/index.html"
   },
   {
-    "revision": "40608fb471d78451305a",
+    "revision": "7288356f7f0c9d000165",
     "url": "/static/css/main.992c821f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.c8a03519.chunk.js"
   },
   {
-    "revision": "40608fb471d78451305a",
-    "url": "/static/js/main.af5ec4be.chunk.js"
+    "revision": "7288356f7f0c9d000165",
+    "url": "/static/js/main.e4f23745.chunk.js"
   },
   {
     "revision": "e57a7c4c953dc5823832",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fonts.0183660f.svg"
   },
   {
-    "revision": "72fd4426d4c76fc78ade393c299dc572",
-    "url": "/static/media/genshin.72fd4426.png"
+    "revision": "e5ee4dccd742493d873ff61fed80085e",
+    "url": "/static/media/genshin.e5ee4dcc.png"
   },
   {
     "revision": "2a4f478c0ef79ece4bb7239306be70e8",
