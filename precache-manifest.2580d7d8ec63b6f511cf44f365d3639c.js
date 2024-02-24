@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1f585d9421a7b7ef0650f0f28377859",
+    "revision": "65af285890c78f21b0f068d573dde393",
     "url": "/index.html"
   },
   {
-    "revision": "3d6693d501510238028f",
+    "revision": "751a085c4797a7448cb5",
     "url": "/static/css/2.fe62fa80.chunk.css"
   },
   {
-    "revision": "6e6057c871d0359b9b41",
+    "revision": "0fb8f7655dddaf1cbb9e",
     "url": "/static/css/main.eecf348b.chunk.css"
   },
   {
-    "revision": "3d6693d501510238028f",
-    "url": "/static/js/2.fa732c04.chunk.js"
+    "revision": "751a085c4797a7448cb5",
+    "url": "/static/js/2.c3cbfbb9.chunk.js"
   },
   {
-    "revision": "22431b0d6cbc70c22d55",
-    "url": "/static/js/3.cc1848e2.chunk.js"
+    "revision": "16ad7d316f80b52237d9",
+    "url": "/static/js/3.73b51e8f.chunk.js"
   },
   {
-    "revision": "6e6057c871d0359b9b41",
-    "url": "/static/js/main.31a7c3da.chunk.js"
+    "revision": "0fb8f7655dddaf1cbb9e",
+    "url": "/static/js/main.2ee3955b.chunk.js"
   },
   {
-    "revision": "d55461fae5b461f984b2",
-    "url": "/static/js/runtime~main.f7e742b7.js"
+    "revision": "5799b81e517f6e63f263",
+    "url": "/static/js/runtime~main.a0bcc8bc.js"
   },
   {
     "revision": "33d206768215cd2eb86a906f062253cc",
@@ -220,6 +220,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/genshin.e5ee4dcc.png"
   },
   {
+    "revision": "28a0ba146f5baec696a6625c0f4c4ec2",
+    "url": "/static/media/glassware ref.28a0ba14.png"
+  },
+  {
     "revision": "2a4f478c0ef79ece4bb7239306be70e8",
     "url": "/static/media/gold colour.2a4f478c.jpg"
   },
@@ -340,20 +344,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/teacup draft 2.6763d9a3.png"
   },
   {
-    "revision": "a146b59d45765326a47d00c4fd62def7",
-    "url": "/static/media/teacup ref.a146b59d.png"
-  },
-  {
     "revision": "cdfded0ef63c24f4566b05a730033d25",
     "url": "/static/media/teacup sm.cdfded0e.png"
   },
   {
     "revision": "e81ffb8d81f9046fb00d6b9d77ba9034",
     "url": "/static/media/teapot blurb.e81ffb8d.png"
-  },
-  {
-    "revision": "edab263b1eb22b1c883928ec227944a8",
-    "url": "/static/media/teapot ref.edab263b.png"
   },
   {
     "revision": "15dac75641349e6ea8498b9969dc2ae6",
